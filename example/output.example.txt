@@ -1,0 +1,5 @@
+This is     a example
+Saying example is like saying example
+7777 2222 3333 4444
+77771;567;hi;done
+exampleing|some|delimiters

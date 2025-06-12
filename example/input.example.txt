@@ -1,0 +1,6 @@
+# Every match from the OLD_VALUE column will be replaced in ALL of the following lines
+This is     a test
+Saying test is like saying example
+1111 2222 3333 4444
+;11111;234;567;hi;;;done;
+testing|some||delimiters|
